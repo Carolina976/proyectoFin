@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "perfumes-b9dc5": {
+      "hosting": {
+        "perfumes": [
+          "perfumes-b9dc5"
+        ]
+      }
+    }
+  }
+}
